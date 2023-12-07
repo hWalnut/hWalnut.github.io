@@ -1,0 +1,35 @@
+.nav_bar {
+    border-bottom: 1px solid black;
+}
+
+.nav_bar a {
+    font-size: 24px;
+    text-decoration: none;
+    font-family: times-new-roman;
+}
+
+#title_name {
+    font-size: 3.5rem;
+    font-family: times-new-roman;
+}
+
+.homepage_project_image {
+    max-width: 700px;
+    padding: 5px;
+    background-color: black;
+}
+.project_card_name  {
+    text-align: center;
+    font-family: times-new-roman;
+}
+
+.project_card_about {
+    text-align: center;
+    font-family: times-new-roman;
+    font-style: italic;
+}
+
+.project_page_description {
+    margin-top: 1%;
+    font-family: times-new-roman;
+}
